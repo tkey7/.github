@@ -2,7 +2,7 @@
 
 <p align="center">
   ·
-  <a href="https://tkey7.com">TKEY7 website</a>
+  <a href="https://tkey7.com">TKEY7 Website</a>
   ·
   <a href="https://developer.tkey7.com">TKEY7 Documentation</a>
   ·
